@@ -1,0 +1,44 @@
+/*
+This program is the simple CSS style sheet for Larson's code example.
+
+This code was written by Larson Long.
+*/
+
+body {
+    background-color: rgb(21, 163, 163);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.leftCol {
+    background-color: white;
+    margin: 10px 20px;
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+
+.rightCol {
+    background-color: white;
+    margin: 10px 20px;
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: black;
+    text-align: left;
+}
+
+textarea {
+    background-color: lightcyan;
+    font-size: 14px;
+    text-align: left;
+}
